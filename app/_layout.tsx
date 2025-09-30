@@ -1,7 +1,6 @@
 import { useEffect } from "react";
 import { Stack, SplashScreen } from "expo-router";
 import { useFonts } from "expo-font";
-import { SafeAreaProvider } from "react-native-safe-area-context";
 import './global.css';
 
 export default function RootLayout() {
