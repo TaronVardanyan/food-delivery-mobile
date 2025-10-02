@@ -33,15 +33,15 @@
           "resizeMode": "contain",
           "backgroundColor": "#ffffff"
         }
+      ],
+      [
+        "@sentry/react-native/expo",
+        {
+          "url": "https://sentry.io/",
+          "project": "jsm_reactnative_food-ordering",
+          "organization": "jsmpro"
+        }
       ]
-      // [
-      //   "@sentry/react-native/expo",
-      //   {
-      //     "url": "https://sentry.io/",
-      //     "project": "jsm_reactnative_food-ordering",
-      //     "organization": "jsmpro"
-      //   }
-      // ]
     ],
     "experiments": {
       "typedRoutes": true
